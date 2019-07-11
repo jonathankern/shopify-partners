@@ -1,0 +1,2 @@
+# shopify-partners
+Shopify Partners
